@@ -1,0 +1,19 @@
+{
+  "course_name": "示例课程",
+  "report_type": "课程实验报告",
+  "title": "示例实验题目",
+  "include_toc": true,
+  "chapters": [
+    {
+      "title": "一、实验任务",
+      "sections": [
+        {
+          "title": "1. 任务概述",
+          "blocks": [
+            {"type": "paragraph", "text": "这里填写经核实的实验目标、材料和实际完成的工作。"}
+          ]
+        }
+      ]
+    }
+  ]
+}

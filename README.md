@@ -23,4 +23,3 @@ python skills/bupt-lab-report/scripts/validate_report.py demo-report.docx
 `examples/demo-report.json` 展示输入格式。正式使用时，请把专业、班级、姓名、学号等占位符改为自己的信息，并在 Word 中更新目录和页码域。详见 [生成规格](skills/bupt-lab-report/references/build-spec.md)。
 
 仓库不包含原始学生报告、个人信息或其预览图；内置 DOCX 只是空白模板。
-
